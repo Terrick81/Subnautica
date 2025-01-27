@@ -36,19 +36,19 @@
     },
     "Nitrogen": {
         "nitrogen": "70",
-        "safeDepth": "38.2455"
+        "safeDepth": "59.541"
     },
     "Stats": {
         "achievements": "Seaglide, HabitatBuilder, RadiationSuit, LaserCutter, DoubleTank",
-        "causeOfDeath": null,
-        "deaths": 0,
+        "causeOfDeath": "Кусака",
+        "deaths": 1,
         "depthReached": "267.6192",
         "scoreBase": "0",
         "scoreMult": "0",
         "scoreBonus": "0",
         "scoreTotal": "0",
         "startPoint": "Barren Trench",
-        "time": "12961.6159",
+        "time": "16260.49",
         "victory": false,
         "id": 5,
         "isLegacy": false,
@@ -91,11 +91,11 @@
         "completedTutorials": null
     },
     "Warnings": {
-        "lastAscentWarningTime": "12919.5414",
-        "lastBreathWarningTime": "11160.1019",
+        "lastAscentWarningTime": "16256.2044",
+        "lastBreathWarningTime": "14631.4352",
         "lastCrushDepthWarningTime": "0",
         "lastCrushDamageWarningTime": "0",
-        "lastDecompressionWarningTime": "12527.0268",
-        "lastDecoDamageWarningTime": "12380.7125"
+        "lastDecompressionWarningTime": "14145.8127",
+        "lastDecoDamageWarningTime": "14144.8056"
     }
 }
