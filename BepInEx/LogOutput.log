@@ -1,4 +1,4 @@
-[Message:   BepInEx] BepInEx 5.4.23.2 - Subnautica (28.12.2022 14:00:25)
+[Message:   BepInEx] BepInEx 5.4.23.2 - Subnautica (27.01.2025 14:42:31)
 [Info   :   BepInEx] Running under Unity v2019.4.36.870
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
@@ -9,7 +9,7 @@
 [Info   :   BepInEx] Loaded 1 patcher method from [Tobey.Subnautica.ConfigHandler.Patcher 1.0.2.0]
 [Info   :   BepInEx] Loaded 1 patcher method from [Tobey.UnityAudio.Patcher 2.0.3.0]
 [Info   :   BepInEx] 4 patcher plugins loaded
-[Message: Timestamp] It is currently Sun, 26 Jan 2025 20:19:27 GMT according to http://google.com
+[Message: Timestamp] It is currently Mon, 27 Jan 2025 12:40:23 GMT according to http://google.com
 [Info   :Legacy Config Handler] Applying override mode: Default
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Info   :Unity Audio Patcher] Enabling Unity Audio...
@@ -32,7 +32,7 @@
 [Info   :   BepInEx] Loading [FreeLook 2.4.1]
 [Info   :   BepInEx] Loading [CyclopsDockingMod 2.1.1]
 [Message:CyclopsDockingMod] Initializing Cyclops Docking mod...
-[Message:CyclopsDockingMod] Loading configuration from "C:/Games/Subnautica/BepInEx/plugins/CyclopsDockingMod/Config.txt"...
+[Message:CyclopsDockingMod] Loading configuration from "D:/Steam/steamapps/common/Subnautica/BepInEx/plugins/CyclopsDockingMod/Config.txt"...
 [Message:CyclopsDockingMod] Loaded openModSettingsKey: F7
 [Message:CyclopsDockingMod] Loaded powercellsChargeSpeed: 25/100
 [Message:CyclopsDockingMod] Loaded autoDockingRange: 13m
@@ -96,22 +96,26 @@
 [Info   :   Console] [GeysersPerformanceFix/Info] Successfully patched
 [Info   :   BepInEx] Loading [FastLoadingScreen 2.0.1]
 [Info   :FastLoadingScreen] Initialising Fast Loading Screen v2.0.1
-[Info   :FastLoadingScreen] Harmony patches applied in 14ms.
-[Info   :FastLoadingScreen] Initialised in 14ms.
+[Info   :FastLoadingScreen] Harmony patches applied in 18ms.
+[Info   :FastLoadingScreen] Initialised in 19ms.
 [Info   :   BepInEx] Loading [File Tree 1.0.1]
 [Info   :   BepInEx] Loading [Subnautica Config Handler 1.0.2]
 [Info   :   BepInEx] Loading [Unity Audio Patcher 2.0.3]
 [Info   :   BepInEx] Loading [VisibleLockerInterior 2.0.0]
 [Message:   BepInEx] Chainloader startup complete
 [Message:Unity Audio Patcher] Attempting to determine the runtime state of Unity Audio...
-[Message: File Tree] C:\Games\Subnautica
+[Message: File Tree] D:\Steam\steamapps\common\Subnautica
+[Message: File Tree] |
+[Message: File Tree] |-- .git
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
 [Message: File Tree] |
 [Message: File Tree] |-- BepInEx
 [Message: File Tree] |   |
 [Message: File Tree] |   |-- cache
 [Message: File Tree] |   |   |
-[Message: File Tree] |   |   |-- chainloader_typeloader.dat [3,4 KB]
-[Message: File Tree] |   |   \-- harmony_interop_cache.dat [1,91 KB]
+[Message: File Tree] |   |   |-- chainloader_typeloader.dat [3,68 KB]
+[Message: File Tree] |   |   \-- harmony_interop_cache.dat [4,11 KB]
 [Message: File Tree] |   |
 [Message: File Tree] |   |-- config
 [Message: File Tree] |   |   |
@@ -207,7 +211,7 @@
 [Message: File Tree] |   |   |   |-- Assets
 [Message: File Tree] |   |   |   |   |
 [Message: File Tree] |   |   |   |   |-- models.assets [4,35 MB]
-[Message: File Tree] |   |   |   |   |-- models.manifest [2,03 KB]
+[Message: File Tree] |   |   |   |   |-- models.manifest [2,11 KB]
 [Message: File Tree] |   |   |   |   \-- __folder_managed_by_vortex [96 B]
 [Message: File Tree] |   |   |   |
 [Message: File Tree] |   |   |   |-- Config.txt [8,48 KB]
@@ -220,14 +224,14 @@
 [Message: File Tree] |   |   |   |   |
 [Message: File Tree] |   |   |   |   |-- Localization
 [Message: File Tree] |   |   |   |   |   |
-[Message: File Tree] |   |   |   |   |   |-- English.json [13,31 KB]
+[Message: File Tree] |   |   |   |   |   |-- English.json [13,42 KB]
 [Message: File Tree] |   |   |   |   |   \-- __folder_managed_by_vortex [96 B]
 [Message: File Tree] |   |   |   |   |
-[Message: File Tree] |   |   |   |   |-- DeathrunStarts.csv [682 B]
+[Message: File Tree] |   |   |   |   |-- DeathrunStarts.csv [707 B]
 [Message: File Tree] |   |   |   |   |-- highscoreswindow [368,38 KB]
-[Message: File Tree] |   |   |   |   |-- RecipeChanges.json [27,56 KB]
+[Message: File Tree] |   |   |   |   |-- RecipeChanges.json [29,02 KB]
 [Message: File Tree] |   |   |   |   |-- safedepthhud [6,36 KB]
-[Message: File Tree] |   |   |   |   |-- ScanNumberChanges.json [4,32 KB]
+[Message: File Tree] |   |   |   |   |-- ScanNumberChanges.json [4,56 KB]
 [Message: File Tree] |   |   |   |   \-- __folder_managed_by_vortex [96 B]
 [Message: File Tree] |   |   |   |
 [Message: File Tree] |   |   |   |-- DeathrunRemade.dll [530 KB]
@@ -848,10 +852,10 @@
 [Message: File Tree] |   |   |-- NoPdaDelay.dll [7 KB]
 [Message: File Tree] |   |   |-- README.md [617 B]
 [Message: File Tree] |   |   |-- VisibleLockerInterior.dll [21 KB]
-[Message: File Tree] |   |   |-- vortex.deployment.bepinex-plugin.json [4,69 KB]
-[Message: File Tree] |   |   \-- vortex.deployment.json [80,24 KB]
+[Message: File Tree] |   |   |-- vortex.deployment.bepinex-plugin.json [4,84 KB]
+[Message: File Tree] |   |   \-- vortex.deployment.json [82,81 KB]
 [Message: File Tree] |   |
-[Message: File Tree] |   \-- LogOutput.log [51,54 KB]
+[Message: File Tree] |   \-- LogOutput.log [55,56 KB]
 [Message: File Tree] |
 [Message: File Tree] |-- MonoBleedingEdge
 [Message: File Tree] |   |
@@ -878,7 +882,7 @@
 [Message: File Tree] |   |   |-- TexLimitBypass.dll [7,5 KB]
 [Message: File Tree] |   |   \-- __folder_managed_by_vortex [96 B]
 [Message: File Tree] |   |
-[Message: File Tree] |   \-- vortex.deployment.qmodmanager-mod.json [1,47 KB]
+[Message: File Tree] |   \-- vortex.deployment.qmodmanager-mod.json [1,52 KB]
 [Message: File Tree] |
 [Message: File Tree] |-- SNAppData
 [Message: File Tree] |   |
@@ -892,17 +896,14 @@
 [Message: File Tree] |   |
 [Message: File Tree] |   \-- (contents not shown)
 [Message: File Tree] |
-[Message: File Tree] |-- Uninstall
-[Message: File Tree] |   |
-[Message: File Tree] |   \-- (contents not shown)
-[Message: File Tree] |
 [Message: File Tree] |-- .doorstop_version [5 B]
-[Message: File Tree] |-- 2.ico [145,61 KB]
+[Message: File Tree] |-- .gitattributes [68 B]
+[Message: File Tree] |-- .gitignore [96 B]
 [Message: File Tree] |-- changelog.txt [170 B]
 [Message: File Tree] |-- doorstop_config.ini [1,43 KB]
 [Message: File Tree] |-- libdoorstop.dylib [37,12 KB]
 [Message: File Tree] |-- liblz4.dll [494,87 KB]
-[Message: File Tree] |-- run_bepinex.sh [8,1 KB]
+[Message: File Tree] |-- run_bepinex.sh [8,37 KB]
 [Message: File Tree] |-- steam_api64.cdx [201,91 KB]
 [Message: File Tree] |-- steam_api64.dll [401,91 KB]
 [Message: File Tree] |-- steam_emu.ini [2,47 KB]
@@ -910,7 +911,7 @@
 [Message: File Tree] |-- Subnautica32.exe [68,5 KB]
 [Message: File Tree] |-- UnityCrashHandler64.exe [1,02 MB]
 [Message: File Tree] |-- UnityPlayer.dll [24,93 MB]
-[Message: File Tree] |-- vortex.deployment.bepinex-5.json [7,77 KB]
+[Message: File Tree] |-- vortex.deployment.bepinex-5.json [7,99 KB]
 [Message: File Tree] \-- winhttp.dll [25,5 KB]
 [Info   :Deathrun Remade] Trying to import legacy Deathrun stats from mod folder...
 [Message:Unity Audio Patcher] Unity Audio is enabled at runtime.
@@ -929,29 +930,28 @@
 [Info   : Unity Log] Loading game settings
 [Info   : Unity Log] Affinity set to all cores.
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: XMenu in mode Additive
-[Info   : Unity Log] Telemetry session started. Platform: 'Steam', UserId: '76561197960267366', SessionId: 434410321
 [Info   : Unity Log] changeset 71288, QualityLevel = 2
 [Info   : Unity Log] OK Running Win64
 [Info   : Unity Log] Application version: 1.21.71288
 [Info   : Unity Log] SystemInfo: 
- deviceModel = Katana GF66 11UE (Micro-Star International Co., Ltd.)
- deviceName = TERRICK
+ deviceModel = Z370P D3 (Gigabyte Technology Co., Ltd.)
+ deviceName = SOPRUK
  deviceType = Desktop
- deviceUniqueIdentifier = f3efd7df9178e28432bf0e3b483f126490193036
- graphicsDeviceID = 9504
- graphicsDeviceName = NVIDIA GeForce RTX 3060 Laptop GPU
+ deviceUniqueIdentifier = 4b08b8b5deb10106a816dc223c84572de2b2e8dd
+ graphicsDeviceID = 7939
+ graphicsDeviceName = NVIDIA GeForce RTX 2060
  graphicsDeviceType = Direct3D11
  graphicsDeviceVendor = NVIDIA
  graphicsDeviceVendorID = 4318
  graphicsDeviceVersion = Direct3D 11.0 [level 11.1]
- graphicsMemorySize = 5996
+ graphicsMemorySize = 12061
  graphicsShaderLevel = 50
  npotSupport = Full
  maxTextureSize = 16384
  operatingSystem = Windows 10  (10.0.19045) 64bit
  processorCount = 12
- processorFrequency = 2688
- processorType = 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+ processorFrequency = 3192
+ processorType = Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
  supportedRenderTargetCount = 8
  supports3DTextures = True
  supportsAccelerometer = False
@@ -967,15 +967,14 @@
  supportsSparseTextures = True
  supportsStencil = 1
  supportsVibration = False
- systemMemorySize = 16085
+ systemMemorySize = 16327
 
 [Warning:Repair Transport Lights by AlHazrad] Repair Transport Lights by AlHazrad ______________________ mod complete!
-[Message:CyclopsDockingMod] No saved base parts found at "C:/Games/Subnautica/SNAppData/SavedGames/slot0001/CyclopsDockingMod/baseparts.txt".
-[Message:CyclopsDockingMod] No saved base parts found at "C:/Games/Subnautica/SNAppData/SavedGames/slot0001/CyclopsDockingMod/baseparts.json".
-[Message:CyclopsDockingMod] Player built 0 custom base parts.
-[Message:CyclopsDockingMod] No Cyclops auto-pilot routes saved at "C:/Games/Subnautica/SNAppData/SavedGames/slot0001/CyclopsDockingMod/routes.txt".
+[Info   : Unity Log] Telemetry session started. Platform: 'Steam', UserId: '76561198810498892', SessionId: 434611647
+[Message:CyclopsDockingMod] No save directory found for base parts at "D:/Steam/steamapps/common/Subnautica/SNAppData/SavedGames/slot0001/CyclopsDockingMod".
+[Message:CyclopsDockingMod] No save directory found for Cyclops auto-pilot routes at "D:/Steam/steamapps/common/Subnautica/SNAppData/SavedGames/slot0001/CyclopsDockingMod".
 [Info   :FastLoadingScreen] Boosting loading times...
-[Info   : Unity Log] 'SaveFilesLoad' took 0,50 seconds
+[Info   : Unity Log] 'SaveFilesLoad' took 0,56 seconds
 [Info   : Unity Log] --- UpgradeBatches : changeSet 71288
 [Info   : Unity Log]     checking upgrade version 17205 - wants upgrade? False
 [Info   : Unity Log]     checking upgrade version 18740 - wants upgrade? False
@@ -1015,118 +1014,108 @@ So far we have discarded or overwritten 1 entries for 'Seaglide'.
 [Warning:  Nautilus] CustomRecipeData already exists for 'Seamoth'.
 Original value has been overwritten by later entry.
 So far we have discarded or overwritten 1 entries for 'Seamoth'.
-[Info   : Unity Log] 'FadeInDummy' took 0,81 seconds
+[Info   : Unity Log] 'FadeInDummy' took 0,82 seconds
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: Main in mode Single
 [Info   : Unity Log] Unloading asset bundle 'logos' because it is no longer referenced
-[Info   : Unity Log] 'SceneMain' took 0,69 seconds
+[Info   : Unity Log] 'SceneMain' took 1,73 seconds
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: Essentials in mode Additive
-[Info   : Unity Log] Heartbeat CSV, time s,9,178849, GC.GetTotalMemory MB,92,44141, OctNodes MB,0, CompactOctrees MB,16,625, CellManager MB,0, ClipMapManager MB,-9,536743E-07, GCCount,197, PlayerPos,2,078138,3,397397,-0,686676
+[Info   : Unity Log] Heartbeat CSV, time s,11,32306, GC.GetTotalMemory MB,93,5, OctNodes MB,0, CompactOctrees MB,16,625, CellManager MB,0, ClipMapManager MB,-9,536743E-07, GCCount,200, PlayerPos,2,078138,3,397397,-0,686676
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: Cyclops in mode Additive
-[Info   : Unity Log] 'SceneEssentials' took 0,42 seconds
-[Info   : Unity Log] Cyclops::Awake frame 819
+[Info   : Unity Log] 'SceneEssentials' took 2,61 seconds
+[Info   : Unity Log] Cyclops::Awake frame 2109
 [Warning: Unity Log] Streamer not ready for __LIGHTMAPPED_PREFAB__
-[Info   : Unity Log] 'SceneCyclops' took 0,37 seconds
-[Info   : Unity Log] L0: Loading lightmapped prefab scene Cyclops total ms: 373,393 self ms: 373,3948
-[Info   : Unity Log] Loaded lightmapped prefab Cyclops frame 820
+[Info   : Unity Log] 'SceneCyclops' took 2,93 seconds
+[Info   : Unity Log] L0: Loading lightmapped prefab scene Cyclops total ms: 2925,489 self ms: 2925,49
+[Info   : Unity Log] Loaded lightmapped prefab Cyclops frame 2110
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: EscapePod in mode Additive
-[Info   : Unity Log] 'SceneEscapePod' took 0,07 seconds
-[Info   : Unity Log] L0: Loading lightmapped prefab scene EscapePod total ms: 66,991 self ms: 66,9911
-[Info   : Unity Log] Loaded lightmapped prefab EscapePod frame 833
+[Info   : Unity Log] 'SceneEscapePod' took 0,49 seconds
+[Info   : Unity Log] L0: Loading lightmapped prefab scene EscapePod total ms: 492,415 self ms: 492,4151
+[Info   : Unity Log] Loaded lightmapped prefab EscapePod frame 2264
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: Aurora in mode Additive
-[Info   : Unity Log] 'SceneAurora' took 0,36 seconds
-[Info   : Unity Log] L0: Loading lightmapped prefab scene Aurora total ms: 357,3137 self ms: 357,3139
-[Info   : Unity Log] Loaded lightmapped prefab Aurora frame 886
+[Info   : Unity Log] 'SceneAurora' took 2,12 seconds
+[Info   : Unity Log] L0: Loading lightmapped prefab scene Aurora total ms: 2116,532 self ms: 2116,532
+[Info   : Unity Log] Loaded lightmapped prefab Aurora frame 2895
 [Info   : Unity Log] Scene Cyclops already loaded - doing nothing.
-[Info   : Unity Log] PAXTerrainController::Initialize called - frame = 886
-[Info   : Unity Log] 'Builder' took 2,19 seconds
-[Info   : Unity Log] PAXTerrainController::MountWorld frame 1310
+[Info   : Unity Log] PAXTerrainController::Initialize called - frame = 2895
+[Info   : Unity Log] 'Builder' took 8,64 seconds
+[Info   : Unity Log] PAXTerrainController::MountWorld frame 5433
 [Info   : Unity Log] builders ready, building world..
-[Info   : Unity Log] loading static world at 'C:/Games/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18'.
-[Info   : Unity Log] World in C:/Games/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18 is from version 39
-[Info   : Unity Log] LargeWorld: Loading world. Frame 1312.
+[Info   : Unity Log] loading static world at 'D:/Steam/steamapps/common/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18'.
+[Info   : Unity Log] World in D:/Steam/steamapps/common/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18 is from version 39
+[Info   : Unity Log] LargeWorld: Loading world. Frame 5435.
 [Info   : Unity Log] LargeWorld land 'Voxeland (Voxeland)'
-[Info   : Unity Log] LargeWorldStreamer::Deinitialize called, frame 1312
-[Info   : Unity Log] LargeWorldStreamer::Initialize frame 1312
+[Info   : Unity Log] LargeWorldStreamer::Deinitialize called, frame 5435
+[Info   : Unity Log] LargeWorldStreamer::Initialize frame 5435
 [Info   : Unity Log] Read streaming settings:
 max frame ms 10, skip ents False, budget 200
 [Info   : Unity Log] LargeWorldStreamer allocated space for 26,20,26 octree batches
 [Info   : Unity Log] LargeWorldStreamer is disabling grass! Either override disable is on, or this is a standalone build
-[Info   : Unity Log] Calling LoadPrefabDatabase frame 1312
+[Info   : Unity Log] Calling LoadPrefabDatabase frame 5435
 [Info   : Unity Log] PrefabDatabase::LoadPrefabDatabase(count: 3336)
-[Info   : Unity Log] L1: Initialize prefab database (WorldEntities) total ms: 2,7891 self ms: 2,7892
-[Info   : Unity Log] L1: SaveLoadManager.Initialize total ms: 2,5679 self ms: 2,568
-[Info   : Unity Log] L1: Create worker thread total ms: 0,8345 self ms: 0,8346
-[Info   : Unity Log] L0: Streamer initialize total ms: 30,4427 self ms: 24,1027
-[Info   : Unity Log] L0: cellManager.ResetEntityDistributions total ms: 35,9165 self ms: 35,9167
+[Info   : Unity Log] L1: Initialize prefab database (WorldEntities) total ms: 2,5474 self ms: 2,5475
+[Info   : Unity Log] L1: SaveLoadManager.Initialize total ms: 2,0924 self ms: 2,0924
+[Info   : Unity Log] L1: Create worker thread total ms: 0,6456 self ms: 0,6456
+[Info   : Unity Log] L0: Streamer initialize total ms: 39,2294 self ms: 33,8432
+[Info   : Unity Log] L0: cellManager.ResetEntityDistributions total ms: 51,708 self ms: 51,7081
 [Info   : Unity Log] initializing first time explosion
 [Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
 [Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
 [Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Info   : Unity Log] L0: LoadSceneObjects total ms: 572,7317 self ms: 572,7319
+[Info   : Unity Log] L0: LoadSceneObjects total ms: 1081,11 self ms: 1081,11
+[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
 [Info   : Unity Log] Achievement 'DiveForTheVeryFirstTime' unlocked!
-[Info   : Unity Log] Achievement 'RepairAuroraReactor' unlocked!
-[Info   : Unity Log] Achievement 'BuildBase' unlocked!
-[Info   : Unity Log] Cyclops::Awake frame 1450
+[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
+[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
+[Info   : Unity Log] Cyclops::Awake frame 5944
 [Error  : Unity Log] Can't remove EnergyMixin (Script) because Welder (Script) depends on it
 [Info   : Unity Log] rebuilt all cells
 [Info   : Unity Log] floodsim total area: 9 floodgroup: 0
 [Info   : Unity Log] floodsim num compartments: 1
-[Info   : Unity Log] Tried to stop event without a valid instance: {0bc72015-377f-4734-8100-776ade651ba4} (event:/sub/base/base_background)
-[Info   : Unity Log] L0: LoadGlobalRoot total ms: 516,4552 self ms: 516,4555
+[Info   : Unity Log] Achievement 'RepairAuroraReactor' unlocked!
+[Info   : Unity Log] L0: LoadGlobalRoot total ms: 726,5153 self ms: 726,5155
 [Info   : Unity Log] loading palette for LargeWorld at 'BlockPrefabs'.
-[Info   : Unity Log] L0: Loading palette total ms: 313,1853 self ms: 313,1855
+[Info   : Unity Log] L0: Loading palette total ms: 3450,68 self ms: 3450,68
+[Info   : Unity Log] Achievement 'BuildBase' unlocked!
 [Info   : Unity Log] biome map downsample factor: 4
-[Info   : Unity Log] L0: Loading biome map total ms: 2,35 self ms: 2,3502
-[Info   : Unity Log] LargeWorld: calling land.Rebuild frame 1452
-[Info   : Unity Log] L0: Rebuilding land total ms: 10,4846 self ms: 10,4847
-[Info   : Unity Log] OK world mounted: C:/Games/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18
-[Info   : Unity Log] 'WorldMount' took 1,95 seconds
+[Info   : Unity Log] L0: Loading biome map total ms: 3,0004 self ms: 3,0006
+[Info   : Unity Log] LargeWorld: calling land.Rebuild frame 5946
+[Info   : Unity Log] L0: Rebuilding land total ms: 12,454 self ms: 12,4541
+[Info   : Unity Log] OK world mounted: D:/Steam/steamapps/common/Subnautica/Subnautica_Data/StreamingAssets\SNUnmanagedData\Build18
+[Info   : Unity Log] 'WorldMount' took 5,75 seconds
 [Info   : Unity Log] Loading world tiles
-[Info   : Unity Log] cam batch 9,18,10, loading bounds 8,17,9 -> 10,19,11, total 27
+[Info   : Unity Log] cam batch 8,18,10, loading bounds 7,17,9 -> 9,19,11, total 27
 [Info   : Unity Log] loading 27 batches
-[Info   : Unity Log] 'WorldTiles' took 0,34 seconds
+[Info   : Unity Log] 'WorldTiles' took 0,67 seconds
 [Info   : Unity Log] Loading cells
 [Info   : Unity Log] 'Octrees' took 0,00 seconds
-[Info   : Unity Log] 'Terrain' took 0,00 seconds
-[Info   : Unity Log] 'Clipmap' took 1,28 seconds
+[Info   : Unity Log] 'Terrain' took 0,10 seconds
+[Info   : Unity Log] 'Clipmap' took 0,76 seconds
 [Info   : Unity Log] 'UpdatingVisibility' took 0,00 seconds
-[Info   : Unity Log] 'EntityCells' took 2,67 seconds
+[Info   : Unity Log] 'EntityCells' took 5,70 seconds
 [Info   : Unity Log] LoadAsync Done
 [Info   : Unity Log] LOADING FINISHED
-[Info   : Unity Log] PerformGarbageAndAssetCollection, Time.time=9,178849, Time.frameCount=2031, DateTime.Now=01/26/2025 23:19:54
-[Info   : Unity Log] L0: PerformGarbageCollection -> GC.Collect total ms: 0,0785 self ms: 0,0786
+[Info   : Unity Log] PerformGarbageAndAssetCollection, Time.time=11,32306, Time.frameCount=7317, DateTime.Now=01/27/2025 15:41:03
+[Info   : Unity Log] L0: PerformGarbageCollection -> GC.Collect total ms: 0,0526 self ms: 0,0527
 [Info   : Unity Log] 'WorldSettle' took 0,00 seconds
-[Info   : Unity Log] 'Root' took 10,03 seconds
+[Info   : Unity Log] 'Root' took 30,10 seconds
 [Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
 [Info   : Unity Log] Loading stage durations:
 SaveFilesLoad,SceneMain,SceneEssentials,SceneCyclops,SceneEscapePod,SceneAurora,Builder,WorldMount,WorldTiles,Batches,Octrees,Terrain,Clipmap,UpdatingVisibility,EntityCells,WorldSettle,Equipment
-0,496,0,688,0,422,0,373,0,068,0,357,2,187,1,953,0,343,,0,000,0,000,1,279,0,000,2,674,0,000,
+0,558,1,728,2,611,2,925,0,492,2,116,8,638,5,755,0,668,,0,000,0,105,0,757,0,000,5,701,0,000,
 
-[Info   : Unity Log] --- PerformGarbageAndAssetCollectionAsync: GC Time 18,6894 Asset GC Time 367,4166
-[Info   :FastLoadingScreen] Loading completed in 11,84s, resetting FPS cap and VSync per user preferences (70, 0)
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] OnTriggerExit failed. Fixing.
+[Info   : Unity Log] --- PerformGarbageAndAssetCollectionAsync: GC Time 11,2707 Asset GC Time 320,1235
+[Info   :FastLoadingScreen] Loading completed in 32,92s, resetting FPS cap and VSync per user preferences (70, 0)
 [Warning: Unity Log] error sending request to sentry: Request timeout
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Warning: Unity Log] Kinematic body only supports Speculative Continuous collision detection
-[Error  : Unity Log] FMOD Studio: Encountered Error: ERR_EVENT_NOTFOUND The requested event, bus or vca could not be found.
-[Info   : Unity Log] PerformGarbageAndAssetCollection, Time.time=31,59725, Time.frameCount=3606, DateTime.Now=01/26/2025 23:20:17
-[Info   : Unity Log] L0: PerformGarbageCollection -> GC.Collect total ms: 0,0021 self ms: 0,0024
-[Info   : Unity Log] --- PerformGarbageAndAssetCollectionAsync: GC Time 13,1178 Asset GC Time 388,3884
+[Info   : Unity Log] PerformGarbageAndAssetCollection, Time.time=43,93687, Time.frameCount=10062, DateTime.Now=01/27/2025 15:41:43
+[Info   : Unity Log] L0: PerformGarbageCollection -> GC.Collect total ms: 0,0008 self ms: 0,0009
+[Info   : Unity Log] --- PerformGarbageAndAssetCollectionAsync: GC Time 27,4042 Asset GC Time 305,9047
 [Info   :  Nautilus] [DeathrunRemade] Saved save data to DeathrunRemade.json
-[Error  : Unity Log] FMOD Studio: Encountered Error: ERR_EVENT_NOTFOUND The requested event, bus or vca could not be found.
-[Info   : Unity Log] Saving 27 batches to C:/ProgramData/Unknown Worlds/Subnautica\TempSave\tmp765569
-[Error  : Unity Log] FMOD Studio: Encountered Error: ERR_EVENT_NOTFOUND The requested event, bus or vca could not be found.
-[Error  : Unity Log] FMOD Studio: Encountered Error: ERR_EVENT_NOTFOUND The requested event, bus or vca could not be found.
+[Info   : Unity Log] Saving 27 batches to C:/ProgramData/Unknown Worlds/Subnautica\TempSave\tmp725447
 [Info   : Unity Log] AddressablesUtility.LoadScene loading scene: Cleaner in mode Single
-[Info   : Unity Log] LargeWorldStreamer::Deinitialize called, frame 3747
-[Info   : Unity Log] Time played: 36s
-[Info   : Unity Log] Max depth: 86m
-[Info   : Unity Log] Distance traveled: 793m
+[Info   : Unity Log] LargeWorldStreamer::Deinitialize called, frame 10269
+[Info   : Unity Log] Time played: 74s
+[Info   : Unity Log] Max depth: 54m
+[Info   : Unity Log] Distance traveled: 792m
 [Warning: Unity Log] [FMOD] Please add an 'FMOD Studio Listener' component to your a camera in the scene for correct 3D positioning of sounds.
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: StartScreen in mode Single
 [Info   : Unity Log] AddressablesUtility.LoadSceneAsync loading scene: MenuEnvironment in mode Additive
@@ -1141,24 +1130,24 @@ SaveFilesLoad,SceneMain,SceneEssentials,SceneCyclops,SceneEscapePod,SceneAurora,
 [Info   : Unity Log] OK Running Win64
 [Info   : Unity Log] Application version: 1.21.71288
 [Info   : Unity Log] SystemInfo: 
- deviceModel = Katana GF66 11UE (Micro-Star International Co., Ltd.)
- deviceName = TERRICK
+ deviceModel = Z370P D3 (Gigabyte Technology Co., Ltd.)
+ deviceName = SOPRUK
  deviceType = Desktop
- deviceUniqueIdentifier = f3efd7df9178e28432bf0e3b483f126490193036
- graphicsDeviceID = 9504
- graphicsDeviceName = NVIDIA GeForce RTX 3060 Laptop GPU
+ deviceUniqueIdentifier = 4b08b8b5deb10106a816dc223c84572de2b2e8dd
+ graphicsDeviceID = 7939
+ graphicsDeviceName = NVIDIA GeForce RTX 2060
  graphicsDeviceType = Direct3D11
  graphicsDeviceVendor = NVIDIA
  graphicsDeviceVendorID = 4318
  graphicsDeviceVersion = Direct3D 11.0 [level 11.1]
- graphicsMemorySize = 5996
+ graphicsMemorySize = 12061
  graphicsShaderLevel = 50
  npotSupport = Full
  maxTextureSize = 16384
  operatingSystem = Windows 10  (10.0.19045) 64bit
  processorCount = 12
- processorFrequency = 2688
- processorType = 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+ processorFrequency = 3192
+ processorType = Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
  supportedRenderTargetCount = 8
  supports3DTextures = True
  supportsAccelerometer = False
@@ -1174,5 +1163,5 @@ SaveFilesLoad,SceneMain,SceneEssentials,SceneCyclops,SceneEscapePod,SceneAurora,
  supportsSparseTextures = True
  supportsStencil = 1
  supportsVibration = False
- systemMemorySize = 16085
+ systemMemorySize = 16327
 
