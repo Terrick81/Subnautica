@@ -1,0 +1,53 @@
+{
+  "instance": "1e020f50-b87d-4db8-bce1-a90fee1e3fe3",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "subnautica",
+  "deploymentTime": 1737845426440,
+  "stagingPath": "C:\\Users\\Terre\\AppData\\Roaming\\Vortex\\subnautica\\mods",
+  "targetPath": "C:\\Games\\Subnautica\\QMods",
+  "files": [
+    {
+      "relPath": "BetterScannerBlips\\mod.json",
+      "source": "BetterScannerBlips-32-1-0-4-1576508327",
+      "target": "",
+      "time": 1576277797000
+    },
+    {
+      "relPath": "TexLimitBypass\\mod.json",
+      "source": "TexLimitBypass-119-0-1",
+      "target": "",
+      "time": 1531883148000
+    },
+    {
+      "relPath": "BetterScannerBlips\\BetterScannerBlips.dll",
+      "source": "BetterScannerBlips-32-1-0-4-1576508327",
+      "target": "",
+      "time": 1576508193000
+    },
+    {
+      "relPath": "TexLimitBypass\\TexLimitBypass.dll",
+      "source": "TexLimitBypass-119-0-1",
+      "target": "",
+      "time": 1531886377000
+    },
+    {
+      "relPath": "Modding Helper\\SMLHelper.dll",
+      "source": "SMLHelper 2.15 (Legacy)-113-2-15-0-1675291290",
+      "target": "",
+      "time": 1675194560000
+    },
+    {
+      "relPath": "Modding Helper\\SMLHelper.xml",
+      "source": "SMLHelper 2.15 (Legacy)-113-2-15-0-1675291290",
+      "target": "",
+      "time": 1675194560000
+    },
+    {
+      "relPath": "Modding Helper\\mod.json",
+      "source": "SMLHelper 2.15 (Legacy)-113-2-15-0-1675291290",
+      "target": "",
+      "time": 1675193462000
+    }
+  ]
+}

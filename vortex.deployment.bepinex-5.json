@@ -1,0 +1,227 @@
+{
+  "instance": "1e020f50-b87d-4db8-bce1-a90fee1e3fe3",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "subnautica",
+  "deploymentTime": 1737845426378,
+  "stagingPath": "C:\\Users\\Terre\\AppData\\Roaming\\Vortex\\subnautica\\mods",
+  "targetPath": "C:\\Games\\Subnautica",
+  "files": [
+    {
+      "relPath": "BepInEx\\core\\0Harmony.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\0Harmony20.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\0Harmony.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.Harmony.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.Harmony.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.Preloader.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.Preloader.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": ".doorstop_version",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\BepInEx.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "changelog.txt",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\patchers\\Tobey\\ConfigHandler\\Tobey.Subnautica.ConfigHandler.Configuration.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\HarmonyXInterop.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\Mono.Cecil.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\patchers\\Tobey\\Tobey.BepInEx.Timestamp.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "run_bepinex.sh",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "libdoorstop.dylib",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "doorstop_config.ini",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "winhttp.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\patchers\\Tobey\\ConfigHandler\\Tobey.Subnautica.ConfigHandler.Patcher.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\Mono.Cecil.Mdb.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\plugins\\Tobey\\ConfigHandler\\Tobey.Subnautica.ConfigHandler.Plugin.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\plugins\\Tobey\\File Tree\\Tobey.FileTree.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\patchers\\Tobey\\UnityAudio\\Tobey.UnityAudio.Shared.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\patchers\\Tobey\\UnityAudio\\Tobey.UnityAudio.Patcher.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\plugins\\Tobey\\UnityAudio\\Tobey.UnityAudio.Plugin.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\plugins\\Tobey\\UnityAudio\\chime.wav",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\Mono.Cecil.Rocks.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\Mono.Cecil.Pdb.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\MonoMod.RuntimeDetour.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\MonoMod.Utils.dll",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\MonoMod.RuntimeDetour.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\core\\MonoMod.Utils.xml",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1728314618000
+    },
+    {
+      "relPath": "BepInEx\\config\\BepInEx.cfg",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1737842053000
+    },
+    {
+      "relPath": "BepInEx\\config\\Tobey.FileTree.cfg",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1737842055000
+    },
+    {
+      "relPath": "BepInEx\\config\\Tobey.UnityAudio.cfg",
+      "source": "Tobey's BepInEx Pack for Subnautica-1108-5-4-23-payload-2-3-0-1728326422",
+      "target": "",
+      "time": 1737842055000
+    }
+  ]
+}

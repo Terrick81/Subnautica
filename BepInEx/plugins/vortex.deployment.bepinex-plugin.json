@@ -1,0 +1,161 @@
+{
+  "instance": "1e020f50-b87d-4db8-bce1-a90fee1e3fe3",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "subnautica",
+  "deploymentTime": 1737845426424,
+  "stagingPath": "C:\\Users\\Terre\\AppData\\Roaming\\Vortex\\subnautica\\mods",
+  "targetPath": "C:\\Games\\Subnautica\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "AnisotropicFix.dll",
+      "source": "Anisotropic Fix v2.0.0-185-2-0-0-1671990420",
+      "target": "",
+      "time": 1671958398000
+    },
+    {
+      "relPath": "Nautilus\\Nautilus.xml",
+      "source": "Nautilus-1262-1-0-0-pre-34-1735432432",
+      "target": "",
+      "time": 1735402356000
+    },
+    {
+      "relPath": "Nautilus\\Nautilus.dll",
+      "source": "Nautilus-1262-1-0-0-pre-34-1735432432",
+      "target": "",
+      "time": 1735402356000
+    },
+    {
+      "relPath": "DeathrunRemade\\DeathrunRemade.dll",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1736837162000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\Localization\\English.json",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1722840636000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\highscoreswindow",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1706096246000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\RecipeChanges.json",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1706042858000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\DeathrunStarts.csv",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1707328088000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\ScanNumberChanges.json",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1694892056000
+    },
+    {
+      "relPath": "DeathrunRemade\\Assets\\safedepthhud",
+      "source": "Deathrun Remade 1.0.6-1495-1-0-6-1736844488",
+      "target": "",
+      "time": 1706096246000
+    },
+    {
+      "relPath": "VipereSolide\\CyclopsCameraZoom\\CyclopsCameraZoom.dll",
+      "source": "Cyclops Camera Zoom-1391-1-1-2-1698045948",
+      "target": "",
+      "time": 1698043073000
+    },
+    {
+      "relPath": "Performance Booster\\PerformanceBooster.dll",
+      "source": "PerformanceBooster v2.1.1-389-2-1-1-1676321329",
+      "target": "",
+      "time": 1676295852000
+    },
+    {
+      "relPath": "NoPdaDelay.dll",
+      "source": "NoPDADelay.zip-1105-1-1-0-1671594720",
+      "target": "",
+      "time": 1671558248000
+    },
+    {
+      "relPath": "Blueprints Improved UI\\Blueprints Improved UI.dll",
+      "source": "Blueprints Improved UI-990-1-0-2-1674721729",
+      "target": "",
+      "time": 1674690936000
+    },
+    {
+      "relPath": "FreeLook\\FreeLook.dll",
+      "source": "FreeLook-517-2-4-2-1737011842",
+      "target": "",
+      "time": 1737011666000
+    },
+    {
+      "relPath": "GeysersPerformanceFix\\GeysersPerformanceFix.dll",
+      "source": "Geysers Performance Fix-394-1-0-1-1672326629",
+      "target": "",
+      "time": 1672324940000
+    },
+    {
+      "relPath": "README.md",
+      "source": "NoPDADelay.zip-1105-1-1-0-1671594720",
+      "target": "",
+      "time": 1671557962000
+    },
+    {
+      "relPath": "CyclopsDockingMod\\Assets\\models.manifest",
+      "source": "Cyclops Docking Mod-554-2-1-1-1711657943",
+      "target": "",
+      "time": 1674245544000
+    },
+    {
+      "relPath": "CyclopsDockingMod\\CyclopsDockingMod.dll",
+      "source": "Cyclops Docking Mod-554-2-1-1-1711657943",
+      "target": "",
+      "time": 1711657552000
+    },
+    {
+      "relPath": "RepairTransportLights\\RepairTransportLights.dll",
+      "source": "RepairTransportLights-1231-1-0-1679158752",
+      "target": "",
+      "time": 1679166938000
+    },
+    {
+      "relPath": "CyclopsDockingMod\\Assets\\models.assets",
+      "source": "Cyclops Docking Mod-554-2-1-1-1711657943",
+      "target": "",
+      "time": 1674245544000
+    },
+    {
+      "relPath": "CyclopsDockingMod\\Config.txt",
+      "source": "Cyclops Docking Mod-554-2-1-1-1711657943",
+      "target": "",
+      "time": 1711657697000
+    },
+    {
+      "relPath": "VisibleLockerInterior.dll",
+      "source": "Visible Locker Interior-933-2-0-0-1671060946",
+      "target": "",
+      "time": 1671052502000
+    },
+    {
+      "relPath": "Tobey\\Fast Loading Screen\\Tobey.FastLoadingScreen.dll",
+      "source": "Fast Loading Screen-763-2-0-1-1712268854",
+      "target": "",
+      "time": 1712268463000
+    },
+    {
+      "relPath": "VolumeControl\\VolumeControl.dll",
+      "source": "VolumeControl-1181-v1-2-1-1675664065",
+      "target": "",
+      "time": 1675663858000
+    }
+  ]
+}

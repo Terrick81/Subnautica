@@ -1,0 +1,11 @@
+{
+	"Id": "texlimitbypass.mod",
+	"DisplayName": "> 6GB RAM Texture Limit Bypass",
+	"Author": "rubyruby",
+	"Version": "1.0.0",
+	"Requires": [],
+	"Enable": true,
+	"AssemblyName": "TexLimitBypass.dll",
+	"EntryMethod": "TexLimitBypass.QPatch.Patch",
+	"Config": {}
+}
