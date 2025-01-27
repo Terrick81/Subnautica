@@ -36,7 +36,7 @@
     },
     "Nitrogen": {
         "nitrogen": "70",
-        "safeDepth": "38.2199"
+        "safeDepth": "38.2455"
     },
     "Stats": {
         "achievements": "Seaglide, HabitatBuilder, RadiationSuit, LaserCutter, DoubleTank",
@@ -48,7 +48,7 @@
         "scoreBonus": "0",
         "scoreTotal": "0",
         "startPoint": "Barren Trench",
-        "time": "12930.1798",
+        "time": "12961.6159",
         "victory": false,
         "id": 5,
         "isLegacy": false,
