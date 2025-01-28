@@ -1,5 +1,5 @@
 {
-    "isHintingEnabled": true,
+    "isHintingEnabled": false,
     "FreeLookKey": "LeftAlt",
     "isToggle": false,
     "deadzone": 20
