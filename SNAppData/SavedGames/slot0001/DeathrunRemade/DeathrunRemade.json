@@ -36,19 +36,19 @@
     },
     "Nitrogen": {
         "nitrogen": "70",
-        "safeDepth": "107.7667"
+        "safeDepth": "125.6153"
     },
     "Stats": {
-        "achievements": "Seaglide, HabitatBuilder, RadiationSuit, LaserCutter, DoubleTank",
+        "achievements": "Seaglide, HabitatBuilder, RadiationSuit, LaserCutter, UltraglideFins, DoubleTank, PlasteelTank",
         "causeOfDeath": "Drowning",
         "deaths": 2,
-        "depthReached": "267.6192",
+        "depthReached": "376.4561",
         "scoreBase": "0",
         "scoreMult": "0",
         "scoreBonus": "0",
         "scoreTotal": "0",
         "startPoint": "Barren Trench",
-        "time": "18045.1686",
+        "time": "24652.3275",
         "victory": false,
         "id": 5,
         "isLegacy": false,
@@ -91,11 +91,11 @@
         "completedTutorials": null
     },
     "Warnings": {
-        "lastAscentWarningTime": "17490.4905",
+        "lastAscentWarningTime": "24600.7943",
         "lastBreathWarningTime": "17290.5478",
         "lastCrushDepthWarningTime": "0",
         "lastCrushDamageWarningTime": "0",
-        "lastDecompressionWarningTime": "17229.246",
-        "lastDecoDamageWarningTime": "14144.8056"
+        "lastDecompressionWarningTime": "24560.4286",
+        "lastDecoDamageWarningTime": "24560.5453"
     }
 }
