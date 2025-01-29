@@ -35,20 +35,20 @@
         "isToppled": true
     },
     "Nitrogen": {
-        "nitrogen": "0",
-        "safeDepth": "0"
+        "nitrogen": "70",
+        "safeDepth": "145.6201"
     },
     "Stats": {
-        "achievements": "Seaglide, HabitatBuilder, RadiationSuit, LaserCutter, UltraglideFins, DoubleTank, PlasteelTank",
-        "causeOfDeath": "Кусака",
-        "deaths": 4,
+        "achievements": "Seaglide, HabitatBuilder, ReinforcedSuit, RadiationSuit, LaserCutter, UltraglideFins, DoubleTank, PlasteelTank",
+        "causeOfDeath": "The Bends",
+        "deaths": 8,
         "depthReached": "376.4561",
         "scoreBase": "0",
         "scoreMult": "0",
         "scoreBonus": "0",
         "scoreTotal": "0",
         "startPoint": "Barren Trench",
-        "time": "33911.535",
+        "time": "41336.7537",
         "victory": false,
         "id": 5,
         "isLegacy": false,
@@ -91,11 +91,11 @@
         "completedTutorials": null
     },
     "Warnings": {
-        "lastAscentWarningTime": "33791.0377",
+        "lastAscentWarningTime": "41275.9733",
         "lastBreathWarningTime": "17290.5478",
         "lastCrushDepthWarningTime": "0",
         "lastCrushDamageWarningTime": "0",
-        "lastDecompressionWarningTime": "33584.4391",
-        "lastDecoDamageWarningTime": "33585.1464"
+        "lastDecompressionWarningTime": "40249.1194",
+        "lastDecoDamageWarningTime": "39946.7608"
     }
 }
