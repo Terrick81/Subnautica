@@ -35,8 +35,8 @@
         "isToppled": true
     },
     "Nitrogen": {
-        "nitrogen": "0",
-        "safeDepth": "0"
+        "nitrogen": "70",
+        "safeDepth": "79.2688"
     },
     "Stats": {
         "achievements": "Seaglide, HabitatBuilder, ReinforcedSuit, RadiationSuit, LaserCutter, UltraglideFins, DoubleTank, PlasteelTank",
@@ -48,7 +48,7 @@
         "scoreBonus": "0",
         "scoreTotal": "0",
         "startPoint": "Barren Trench",
-        "time": "46534.1401",
+        "time": "52454.6809",
         "victory": false,
         "id": 5,
         "isLegacy": false,
@@ -91,11 +91,11 @@
         "completedTutorials": null
     },
     "Warnings": {
-        "lastAscentWarningTime": "46497.6579",
+        "lastAscentWarningTime": "49582.9421",
         "lastBreathWarningTime": "17290.5478",
         "lastCrushDepthWarningTime": "0",
         "lastCrushDamageWarningTime": "0",
-        "lastDecompressionWarningTime": "46498.0238",
-        "lastDecoDamageWarningTime": "46500.2407"
+        "lastDecompressionWarningTime": "47849.4091",
+        "lastDecoDamageWarningTime": "47851.4281"
     }
 }
